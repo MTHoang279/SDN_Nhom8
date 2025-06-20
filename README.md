@@ -99,7 +99,6 @@ pip install pandas numpy scikit-learn joblib requests
 ## Notes
 
 - If `best_model.pkl` is missing, the controller will automatically train a new model from `processed_data.csv`.
-- Ensure all `.py` files reside in the same directory.
 - Update file paths in `features.py`, `detection.py`, and `mitigation.py` if your environment differs.
 
 ---
