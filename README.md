@@ -29,7 +29,7 @@ https://github.com/mininet/mininet
 ### 1. Download the dataset
 
 Download the CSV file from Kaggle:  
-🔗 https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv?select=02-21-2018.csv
+https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv?select=02-21-2018.csv
 
 ### 2. Preprocess the data
 
