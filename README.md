@@ -45,7 +45,7 @@ This will produce `processed_data.csv`, which contains the cleaned features and 
 
 ## Usage
 
-### 🛠 Mode 1: DDoS **Detection Only**
+### Mode 1: DDoS **Detection Only**
 
 1. **Start the Ryu controller**:  
    ```bash
