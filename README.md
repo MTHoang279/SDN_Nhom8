@@ -77,7 +77,7 @@ This will produce `processed_data.csv`, which contains the cleaned features and 
    ```bash
    sudo python3 /path_to/hoic.py
    ```
-4. The `mitigation.py` controller will log detected attacks and automatically apply rate-limiting to the victim’s IP.
+4. The `mitigation.py` controller will log detected attacks and automatically apply rate-limiting to the attackerattacker’s IP.
 
 ---
 
